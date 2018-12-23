@@ -2,10 +2,10 @@
 Write a java program to input your first name and last name, then say "hello"
 two ways, like this:
  
-Enter your first name: Michael
-Enter your last name: Fudge
-Hello, Michael Fudge!  
-Or should I say: Fudge, Michael!
+Enter your first name: First
+Enter your last name: last
+Hello, First Last!  
+Or should I say: Last, First!
 */
 
 package helloyourname2ways;
